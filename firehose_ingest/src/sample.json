@@ -1,0 +1,28 @@
+{
+  "did": "did:plc:rvemlvlqeprx3lok3af4b5cf",
+  "time_us": 1759870191906550,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m2myutypa72v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m2myurut2c2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-07T20:49:49.398Z",
+      "langs": ["en"],
+      "reply": {
+        "parent": {
+          "cid": "bafyreia6grhatnuvhqtfcjc4ywca73xragcnfmzwdz6otxgufeplzmufuu",
+          "uri": "at://did:plc:t4i3a4fawuzge3dsw2i2h2fw/app.bsky.feed.post/3m2my4p5nek2k"
+        },
+        "root": {
+          "cid": "bafyreia6grhatnuvhqtfcjc4ywca73xragcnfmzwdz6otxgufeplzmufuu",
+          "uri": "at://did:plc:t4i3a4fawuzge3dsw2i2h2fw/app.bsky.feed.post/3m2my4p5nek2k"
+        }
+      },
+      "text": "And of course, those oligarchs are probably nowhere near Chicago, and just don't care."
+    },
+    "cid": "bafyreibh3ivmbwyrhmftyckkksrpcmiajiz7pan6acer57x5s22n4ttywe"
+  }
+}
